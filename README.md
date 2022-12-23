@@ -1,6 +1,6 @@
 <h3 align="center">I am Kadir, a Computer Science major, entrepreneur and a self-proclaimed professional problem solver.</h3>
 
-- 🌱 I’m currently learning **UiPAth, Data Science and Machine Learning.**
+- 🌱 I’m currently learning **JavaScript, SQL, Back-end API for website application.**
 
 - 📫 How to reach me **abdulkadirramanli@hotmail.com**
 
